@@ -29,9 +29,9 @@ export default function Header() {
 
   const handleLogin = () => {
     setIsLoginModalOpen(false);
-    // Редирект на страницу логина
+    // Редирект на главную страницу
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.c-wn.ru/login'),
+      external: encodeURIComponent('https://vavada2.c-wn.ru/'),
       ref: 'header-login',
     });
     window.location.href = `/${locale}/redirect?${params.toString()}`;
@@ -39,9 +39,9 @@ export default function Header() {
 
   const handleRegister = () => {
     setIsRegisterModalOpen(false);
-    // Редирект на страницу регистрации
+    // Редирект на главную страницу
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.c-wn.ru/register'),
+      external: encodeURIComponent('https://vavada2.c-wn.ru/'),
       ref: 'header-register',
     });
     window.location.href = `/${locale}/redirect?${params.toString()}`;

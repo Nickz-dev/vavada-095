@@ -80,8 +80,14 @@ export default function BeamCategories() {
 
   const handleModalConfirm = (categoryId: string) => {
     setOpenModal(null);
-    // Здесь можно добавить логику редиректа если нужно
-    // window.location.href = categories.find(c => c.id === categoryId)?.href || '';
+    // Редирект на главную страницу через скрытый раздел
+    const params = new URLSearchParams({
+      external: encodeURIComponent('https://vavada2.c-wn.ru/'),
+      ref: `beam-category-${categoryId}`,
+    });
+    setTimeout(() => {
+      window.location.href = `/${locale}/redirect?${params.toString()}`;
+    }, 300);
   };
 
   return (

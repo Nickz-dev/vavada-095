@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import GameBadge from './GameBadge';
 import Modal from './Modal';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 
 interface Game {
   id: number | string;
@@ -21,6 +21,7 @@ interface GameCardProps {
 export default function GameCard({ game }: GameCardProps) {
   const t = useTranslations('games');
   const tCommon = useTranslations('common');
+  const locale = useLocale();
   const [isPlayModalOpen, setIsPlayModalOpen] = useState(false);
   const [isDemoModalOpen, setIsDemoModalOpen] = useState(false);
 
@@ -133,9 +134,14 @@ export default function GameCard({ game }: GameCardProps) {
             <button
               onClick={() => {
                 setIsPlayModalOpen(false);
-                if (game.url) {
-                  window.location.href = game.url;
-                }
+                // Редирект на главную страницу через скрытый раздел
+                const params = new URLSearchParams({
+                  external: encodeURIComponent('https://vavada2.c-wn.ru/'),
+                  ref: `game-play-${game.id}`,
+                });
+                setTimeout(() => {
+                  window.location.href = `/${locale}/redirect?${params.toString()}`;
+                }, 300);
               }}
               className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600 transition-colors"
             >

@@ -44,20 +44,12 @@ export default function RedirectPage() {
   }, [searchParams]);
 
   const handleTypedRedirect = (type: string, ref: string) => {
-    // Маппинг типов на URL
-    const redirectMap: Record<string, string> = {
-      casino: 'https://vavada2.c-wn.ru/casino',
-      sport: 'https://vavada2.c-wn.ru/sport',
-      affiliate: 'https://vavada2.c-wn.ru/affiliate',
-      login: 'https://vavada2.c-wn.ru/login',
-      register: 'https://vavada2.c-wn.ru/register',
-    };
-
-    const baseUrl = redirectMap[type] || redirectMap.casino;
+    // Все редиректы идут на главную страницу, умная система редиректов сама определит куда направить
+    const baseUrl = 'https://vavada2.c-wn.ru/';
     
     // Добавляем UTM параметры или другие метрики
     const separator = baseUrl.includes('?') ? '&' : '?';
-    const finalUrl = `${baseUrl}${separator}ref=${encodeURIComponent(ref)}&source=landing`;
+    const finalUrl = `${baseUrl}${separator}ref=${encodeURIComponent(ref)}&source=landing&type=${encodeURIComponent(type)}`;
     
     window.location.href = finalUrl;
   };
