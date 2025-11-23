@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "ログイン",
+    "register": "登録",
+    "language": "言語",
+    "cancel": "キャンセル",
+    "continue": "続ける",
+    "categories": {
+      "slots": "スロット",
+      "live": "ライブゲーム",
+      "review": "レビュー",
+      "crash": "クラッシュ",
+      "tournament": "トーナメント"
+    }
+  },
+  "header": {
+    "login": "ログイン",
+    "register": "登録",
+    "review": "レビュー"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "お問い合わせ",
+      "termsAndConditions": "利用規約",
+      "privacyPolicy": "プライバシーポリシー",
+      "sportConditions": "スポーツベッティングルール",
+      "affiliateProgram": "アフィリエイトプログラム",
+      "responsibleGaming": "責任あるゲーミング",
+      "review": "レビュー"
+    },
+    "apps": {
+      "ios": {
+        "label": "アプリ",
+        "os": "iOS用"
+      },
+      "android": {
+        "label": "アプリ",
+        "os": "Android用"
+      }
+    },
+    "payments": {
+      "title": "支払い方法"
+    },
+    "warning": {
+      "line1": "ギャンブルは娯楽を目的としています。",
+      "line2": "ベットを配置する際は、お金をリスクにさらすことを忘れないでください。",
+      "line3": "失う余裕がある以上の金額を使わないでください。"
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "注意",
+    "redirectWarning": "現在のミラーへのリダイレクト"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "VAVADAのジャックポット",
+      "crypto": "実マネー向けクリプトトーナメントX",
+      "maxbet": "VAVADA限定のエクスクルーシブトーナメント",
+      "sport": "エクスプレスボーナス最大100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "ゲームを検索",
+    "noGamesFound": "ゲームが見つかりません",
+    "allProviders": "すべてのプロバイダー",
+    "play": "プレイ",
+    "demo": "デモ",
+    "playGame": "ゲームを開始",
+    "demoGame": "ゲームのデモ版",
+    "moreGames": "もっとゲーム",
+    "moreGamesDescription": "さらにゲームを読み込み中...",
+    "loadMore": "さらに読み込む"
+  },
+  "breadcrumbs": {
+    "home": "ホーム"
+  },
+  "reviewSeo": {
+    "description": "Vavadaカジノの完全レビュー：ボーナス、ゲーム、登録、プレイヤーレビュー。迅速な支払いと寛大なウェルカムボーナスを備えた最高のオンラインカジノについてすべて学びましょう。",
+    "button": "完全レビュー"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - オンラインカジノ",
+      "description": "Vavadaでプレイ"
+    }
+  }
+}
+

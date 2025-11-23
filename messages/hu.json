@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Bejelentkezés",
+    "register": "Regisztráció",
+    "language": "Nyelv",
+    "cancel": "Mégse",
+    "continue": "Folytatás",
+    "categories": {
+      "slots": "Hangszalagok",
+      "live": "Élő játékok",
+      "review": "Áttekintés",
+      "crash": "Crash",
+      "tournament": "Versenyek"
+    }
+  },
+  "header": {
+    "login": "Bejelentkezés",
+    "register": "Regisztráció",
+    "review": "Áttekintés"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Írjon nekünk",
+      "termsAndConditions": "Szabályok és feltételek",
+      "privacyPolicy": "Adatvédelmi irányelvek",
+      "sportConditions": "Sportfogadási szabályok",
+      "affiliateProgram": "Partnerprogram",
+      "responsibleGaming": "Felelős játék",
+      "review": "Áttekintés"
+    },
+    "apps": {
+      "ios": {
+        "label": "Alkalmazás",
+        "os": "iOS-hez"
+      },
+      "android": {
+        "label": "Alkalmazás",
+        "os": "Androidhoz"
+      }
+    },
+    "payments": {
+      "title": "Fizetési módok"
+    },
+    "warning": {
+      "line1": "A szerencsejáték szórakoztatásra szolgál.",
+      "line2": "Ne feledje, hogy pénzt kockáztat, amikor fogadásokat tesz.",
+      "line3": "Ne költse el többet, mint amennyit megengedhet magának, hogy elveszítse."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Figyelem",
+    "redirectWarning": "Átirányítás az aktuális tükörre"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Jackpotok a VAVADA-n",
+      "crypto": "Kripto torna X valódi pénzért",
+      "maxbet": "Exkluzív tornák csak a VAVADA-n",
+      "sport": "Express bónusz akár 100%-ig"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Játékok keresése",
+    "noGamesFound": "Nem találhatók játékok",
+    "allProviders": "Minden szolgáltató",
+    "play": "Játszani",
+    "demo": "Demo",
+    "playGame": "Játék indítása",
+    "demoGame": "A játék demó verziója",
+    "moreGames": "TÖBB JÁTÉK",
+    "moreGamesDescription": "Több játék betöltése...",
+    "loadMore": "Több betöltése"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap"
+  },
+  "reviewSeo": {
+    "description": "Teljes áttekintés a Vavada Casinóról: bónuszok, játékok, regisztráció és játékos vélemények. Ismerje meg mindent a legjobb online kaszinóról gyors kifizetésekkel és bőkezű üdvözlő bónuszokkal.",
+    "button": "Teljes áttekintés"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Online Kaszinó",
+      "description": "Játsszon a Vavada-nál"
+    }
+  }
+}
+

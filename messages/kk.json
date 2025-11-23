@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Кіру",
+    "register": "Тіркелу",
+    "language": "Тіл",
+    "cancel": "Болдырмау",
+    "continue": "Жалғастыру",
+    "categories": {
+      "slots": "Слоттар",
+      "live": "Тікелей ойындар",
+      "review": "Шолу",
+      "crash": "Crash",
+      "tournament": "Турнирлер"
+    }
+  },
+  "header": {
+    "login": "Кіру",
+    "register": "Тіркелу",
+    "review": "Қарау"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Бізге жазыңыз",
+      "termsAndConditions": "Ережелер мен шарттар",
+      "privacyPolicy": "Құпиялылық саясаты",
+      "sportConditions": "Спорттық ставкалар ережелері",
+      "affiliateProgram": "Серіктестік бағдарламасы",
+      "responsibleGaming": "Жауапты ойын",
+      "review": "Қарау"
+    },
+    "apps": {
+      "ios": {
+        "label": "Қосымша",
+        "os": "iOS үшін"
+      },
+      "android": {
+        "label": "Қосымша",
+        "os": "Android үшін"
+      }
+    },
+    "payments": {
+      "title": "Төлем әдістері"
+    },
+    "warning": {
+      "line1": "Құмар ойындар ойын-сауық үшін арналған.",
+      "line2": "Ставка қойғанда ақшаны тәуекелге ұшырататыныңызды есте сақтаңыз.",
+      "line3": "Жоғалтуға мүмкіндігіңізден аспайтын соманы жұмсамаңыз."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Назар аударыңыз",
+    "redirectWarning": "Актуалды айнаға өту"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "VAVADA-дағы джекпоттар",
+      "crypto": "Нақты ақшаға арналған Крипто турнир X",
+      "maxbet": "Тек VAVADA-да эксклюзивті турнирлер",
+      "sport": "Экспресс бонус 100% дейін"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Ойындарды іздеу",
+    "noGamesFound": "Ойындар табылмады",
+    "allProviders": "Барлық провайдерлер",
+    "play": "Ойнау",
+    "demo": "Демо",
+    "playGame": "Ойынды бастау",
+    "demoGame": "Ойынның демо нұсқасы",
+    "moreGames": "КӨБІРЕК ОЙЫНДАР",
+    "moreGamesDescription": "Қосымша ойындар жүктелуде...",
+    "loadMore": "Көбірек жүктеу"
+  },
+  "breadcrumbs": {
+    "home": "Басты бет"
+  },
+  "reviewSeo": {
+    "description": "Vavada Casino-ның толық шолуы: бонустар, ойындар, тіркелу және ойыншылардың пікірлері. Жылдам төлемдер мен сыйлықты қош келдіңіздер бонустары бар ең жақсы онлайн казино туралы бәрін біліңіз.",
+    "button": "Толық шолу"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Онлайн казино",
+      "description": "Vavada-да ойнаңыз"
+    }
+  }
+}
+

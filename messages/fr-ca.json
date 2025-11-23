@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "language": "Langue",
+    "cancel": "Annuler",
+    "continue": "Continuer",
+    "categories": {
+      "slots": "Machines à sous",
+      "live": "Jeux en direct",
+      "review": "Aperçu",
+      "crash": "Crash",
+      "tournament": "Tournois"
+    }
+  },
+  "header": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "review": "Avis"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Écrivez-nous",
+      "termsAndConditions": "Règles et conditions",
+      "privacyPolicy": "Politique de confidentialité",
+      "sportConditions": "Règles des paris sportifs",
+      "affiliateProgram": "Programme d'affiliation",
+      "responsibleGaming": "Jeu responsable",
+      "review": "Avis"
+    },
+    "apps": {
+      "ios": {
+        "label": "Application",
+        "os": "pour iOS"
+      },
+      "android": {
+        "label": "Application",
+        "os": "pour Android"
+      }
+    },
+    "payments": {
+      "title": "Méthodes de paiement"
+    },
+    "warning": {
+      "line1": "Les jeux d'argent sont destinés à divertir.",
+      "line2": "N'oubliez pas que vous risquez de l'argent lorsque vous placez des paris.",
+      "line3": "Ne dépensez pas plus que vous ne pouvez vous permettre de perdre."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Attention",
+    "redirectWarning": "Redirection vers le miroir actuel"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Jackpots sur VAVADA",
+      "crypto": "Tournoi Crypto X pour de l'argent réel",
+      "maxbet": "Tournois exclusifs uniquement sur VAVADA",
+      "sport": "Bonus express jusqu'à 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Rechercher des jeux",
+    "noGamesFound": "Aucun jeu trouvé",
+    "allProviders": "Tous les fournisseurs",
+    "play": "Jouer",
+    "demo": "Démo",
+    "playGame": "Lancer le jeu",
+    "demoGame": "Version démo du jeu",
+    "moreGames": "PLUS DE JEUX",
+    "moreGamesDescription": "Chargement de plus de jeux...",
+    "loadMore": "Charger plus"
+  },
+  "breadcrumbs": {
+    "home": "Accueil"
+  },
+  "reviewSeo": {
+    "description": "Avis complet sur Vavada Casino: bonus, jeux, inscription et avis des joueurs. Découvrez tout sur le meilleur casino en ligne avec des paiements rapides et des bonus de bienvenue généreux.",
+    "button": "Avis Complet"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Casino en ligne",
+      "description": "Jouez sur Vavada"
+    }
+  }
+}
+

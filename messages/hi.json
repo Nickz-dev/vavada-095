@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "लॉग इन",
+    "register": "पंजीकरण",
+    "language": "भाषा",
+    "cancel": "रद्द करें",
+    "continue": "जारी रखें",
+    "categories": {
+      "slots": "स्लॉट",
+      "live": "लाइव गेम",
+      "review": "समीक्षा",
+      "crash": "क्रैश",
+      "tournament": "टूर्नामेंट"
+    }
+  },
+  "header": {
+    "login": "लॉग इन",
+    "register": "पंजीकरण",
+    "review": "समीक्षा"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "हमें लिखें",
+      "termsAndConditions": "नियम और शर्तें",
+      "privacyPolicy": "गोपनीयता नीति",
+      "sportConditions": "खेल सट्टेबाजी नियम",
+      "affiliateProgram": "सहबद्ध कार्यक्रम",
+      "responsibleGaming": "जिम्मेदार गेमिंग",
+      "review": "समीक्षा"
+    },
+    "apps": {
+      "ios": {
+        "label": "एप्लिकेशन",
+        "os": "iOS के लिए"
+      },
+      "android": {
+        "label": "एप्लिकेशन",
+        "os": "Android के लिए"
+      }
+    },
+    "payments": {
+      "title": "भुगतान विधियां"
+    },
+    "warning": {
+      "line1": "जुआ मनोरंजन के लिए है।",
+      "line2": "याद रखें कि जब आप दांव लगाते हैं तो आप पैसे जोखिम में डालते हैं।",
+      "line3": "उससे अधिक खर्च न करें जितना आप खो सकते हैं।"
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "ध्यान",
+    "redirectWarning": "वर्तमान दर्पण पर पुनर्निर्देशन"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "VAVADA पर जैकपॉट",
+      "crypto": "क्रिप्टो टूर्नामेंट X असली पैसे के लिए",
+      "maxbet": "विशेष टूर्नामेंट केवल VAVADA पर",
+      "sport": "एक्सप्रेस बोनस 100% तक"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "गेम खोजें",
+    "noGamesFound": "कोई गेम नहीं मिला",
+    "allProviders": "सभी प्रदाता",
+    "play": "खेलें",
+    "demo": "डेमो",
+    "playGame": "गेम लॉन्च करें",
+    "demoGame": "गेम का डेमो संस्करण",
+    "moreGames": "अधिक गेम",
+    "moreGamesDescription": "अधिक गेम लोड हो रहे हैं...",
+    "loadMore": "अधिक लोड करें"
+  },
+  "breadcrumbs": {
+    "home": "होम"
+  },
+  "reviewSeo": {
+    "description": "Vavada Casino की पूरी समीक्षा: बोनस, गेम, पंजीकरण और खिलाड़ी समीक्षाएं। त्वरित भुगतान और उदार स्वागत बोनस के साथ सर्वश्रेष्ठ ऑनलाइन कैसीनो के बारे में सब कुछ जानें।",
+    "button": "पूरी समीक्षा"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - ऑनलाइन कैसीनो",
+      "description": "Vavada पर खेलें"
+    }
+  }
+}
+

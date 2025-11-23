@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Вход",
+    "register": "Регистрация",
+    "language": "Език",
+    "cancel": "Отказ",
+    "continue": "Продължи",
+    "categories": {
+      "slots": "Слотове",
+      "live": "Игри на живо",
+      "review": "Преглед",
+      "crash": "Crash",
+      "tournament": "Турнири"
+    }
+  },
+  "header": {
+    "login": "Вход",
+    "register": "Регистрация",
+    "review": "Преглед"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Пишете ни",
+      "termsAndConditions": "Правила и условия",
+      "privacyPolicy": "Политика за поверителност",
+      "sportConditions": "Правила за спортни залози",
+      "affiliateProgram": "Партньорска програма",
+      "responsibleGaming": "Отговорно играене",
+      "review": "Преглед"
+    },
+    "apps": {
+      "ios": {
+        "label": "Приложение",
+        "os": "за iOS"
+      },
+      "android": {
+        "label": "Приложение",
+        "os": "за Android"
+      }
+    },
+    "payments": {
+      "title": "Начини на плащане"
+    },
+    "warning": {
+      "line1": "Хазартните игри са за забавление.",
+      "line2": "Помнете, че рискувате пари, когато правите залози.",
+      "line3": "Не харчете повече, отколкото можете да си позволите да загубите."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Внимание",
+    "redirectWarning": "Преминаване към актуално огледало"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Джакпоти на VAVADA",
+      "crypto": "Крипто турнир X за реални пари",
+      "maxbet": "Ексклузивни турнири само на VAVADA",
+      "sport": "Бонус на експрес до 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Търсене на игри",
+    "noGamesFound": "Игри не са намерени",
+    "allProviders": "Всички доставчици",
+    "play": "Играй",
+    "demo": "Демо",
+    "playGame": "Стартиране на игра",
+    "demoGame": "Демо версия на играта",
+    "moreGames": "ОЩЕ ИГРИ",
+    "moreGamesDescription": "Зареждане на още игри...",
+    "loadMore": "Зареди още"
+  },
+  "reviewSeo": {
+    "description": "Пълен преглед на Vavada Casino: бонуси, игри, регистрация и отзиви на играчи. Научете всичко за най-доброто онлайн казино с бързи изплащания и щедри бонуси за посрещане.",
+    "button": "Пълен преглед"
+  },
+  "breadcrumbs": {
+    "home": "Начало"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Онлайн Казино",
+      "description": "Играйте в Vavada"
+    }
+  }
+}
+

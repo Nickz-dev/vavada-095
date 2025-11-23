@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "language": "Idioma",
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "categories": {
+      "slots": "Tragamonedas",
+      "live": "Juegos en vivo",
+      "review": "Reseña",
+      "crash": "Crash",
+      "tournament": "Torneos"
+    }
+  },
+  "header": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "review": "Revisar"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Escríbenos",
+      "termsAndConditions": "Términos y condiciones",
+      "privacyPolicy": "Política de privacidad",
+      "sportConditions": "Reglas de apuestas deportivas",
+      "affiliateProgram": "Programa de afiliados",
+      "responsibleGaming": "Juego responsable",
+      "review": "Revisar"
+    },
+    "apps": {
+      "ios": {
+        "label": "Aplicación",
+        "os": "para iOS"
+      },
+      "android": {
+        "label": "Aplicación",
+        "os": "para Android"
+      }
+    },
+    "payments": {
+      "title": "Métodos de pago"
+    },
+    "warning": {
+      "line1": "Los juegos de azar están destinados a entretener.",
+      "line2": "Recuerde que arriesga dinero cuando hace apuestas.",
+      "line3": "No gaste más de lo que puede permitirse perder."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Atención",
+    "redirectWarning": "Redirección al espejo actual"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Jackpots en VAVADA",
+      "crypto": "Torneo Crypto X por dinero real",
+      "maxbet": "Torneos exclusivos solo en VAVADA",
+      "sport": "Bono express hasta 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Buscar juegos",
+    "noGamesFound": "No se encontraron juegos",
+    "allProviders": "Todos los proveedores",
+    "play": "Jugar",
+    "demo": "Demo",
+    "playGame": "Iniciar juego",
+    "demoGame": "Versión demo del juego",
+    "moreGames": "MÁS JUEGOS",
+    "moreGamesDescription": "Cargando más juegos...",
+    "loadMore": "Cargar más"
+  },
+  "breadcrumbs": {
+    "home": "Inicio"
+  },
+  "reviewSeo": {
+    "description": "Reseña completa de Vavada Casino: bonos, juegos, registro y reseñas de jugadores. Aprende todo sobre el mejor casino en línea con pagos rápidos y generosos bonos de bienvenida.",
+    "button": "Reseña Completa"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Casino Online",
+      "description": "Juega en Vavada"
+    }
+  }
+}
+

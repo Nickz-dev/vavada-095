@@ -1,0 +1,213 @@
+{
+  "common": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "language": "Sprache",
+    "cancel": "Abbrechen",
+    "continue": "Fortfahren",
+    "categories": {
+      "slots": "Slots",
+      "live": "Live-Spiele",
+      "review": "Übersicht",
+      "crash": "Crash",
+      "tournament": "Turniere"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Startseite"
+  },
+  "header": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "review": "Überprüfung"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Schreiben Sie uns",
+      "termsAndConditions": "Regeln und Bedingungen",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "sportConditions": "Sportwettenregeln",
+      "affiliateProgram": "Partnerprogramm",
+      "responsibleGaming": "Verantwortungsvolles Spielen",
+      "review": "Überprüfung"
+    },
+    "apps": {
+      "ios": {
+        "label": "Anwendung",
+        "os": "für iOS"
+      },
+      "android": {
+        "label": "Anwendung",
+        "os": "für Android"
+      }
+    },
+    "payments": {
+      "title": "Zahlungsmethoden"
+    },
+    "warning": {
+      "line1": "Glücksspiele sollen unterhalten.",
+      "line2": "Denken Sie daran, dass Sie Geld riskieren, wenn Sie Wetten platzieren.",
+      "line3": "Geben Sie nicht mehr aus, als Sie sich leisten können zu verlieren."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Achtung",
+    "redirectWarning": "Weiterleitung zum aktuellen Spiegel"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Jackpots auf VAVADA",
+      "crypto": "Krypto-Turnier X für echtes Geld",
+      "maxbet": "Exklusive Turniere nur auf VAVADA",
+      "sport": "Express-Bonus bis zu 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Spiele suchen",
+    "noGamesFound": "Keine Spiele gefunden",
+    "allProviders": "Alle Anbieter",
+    "play": "Spielen",
+    "demo": "Demo",
+    "playGame": "Spiel starten",
+    "demoGame": "Demo-Version des Spiels",
+    "moreGames": "MEHR SPIELE",
+    "moreGamesDescription": "Weitere Spiele laden...",
+    "loadMore": "Mehr laden"
+  },
+  "reviewSeo": {
+    "description": "Vollständige Übersicht über Vavada Casino: Boni, Spiele, Registrierung und Spielerbewertungen. Erfahren Sie alles über das beste Online-Casino mit schnellen Auszahlungen und großzügigen Willkommensboni.",
+    "button": "Vollständige Übersicht"
+  },
+  "review": {
+    "title": "Vollständige Übersicht des Vavada Online-Casinos: Spiele, Boni, Sicherheit und Spiegel",
+    "intro": "Vavada ist eines der beliebtesten <casino>Online-Casinos</casino> unter Spielern aus Russland und den GUS-Ländern und zieht mit seinem riesigen Spielkatalog, großzügigem Bonusprogramm und benutzerfreundlicher Oberfläche Aufmerksamkeit auf sich. Diese detaillierte Übersicht deckt alle wichtigen Aspekte der Plattform ab, von der Registrierung und Spielauswahl bis hin zu Sicherheit und Umgehung von Blockierungen.",
+    "toc": {
+      "title": "Inhaltsverzeichnis",
+      "games": "Spieleportfolio und Plattformfunktionalität",
+      "registration": "Registrierung und Spielbeginn",
+      "bonuses": "Boni und Treueprogramm",
+      "security": "Sicherheit und Support",
+      "mirrors": "Aktuelle Spiegel für den Zugang",
+      "tips": "Tipps für erfolgreiches Spielen"
+    },
+    "games": {
+      "title": "Spieleportfolio und Plattformfunktionalität",
+      "intro": "Vavada bietet eine beeindruckende Sammlung von Tausenden von Unterhaltungsoptionen von führenden globalen Anbietern wie NetEnt, Microgaming, <playngo>Play'n GO</playngo>, <evolution>Evolution Gaming</evolution> und anderen. Dank eines praktischen Filter- und Sortiersystems nach Popularität und Neuheit findet jeder Spieler leicht eine passende Option.",
+      "slots": {
+        "title": "Spielautomaten (Slots)",
+        "text": "Dies ist die Grundlage des Katalogs. Hier finden Sie sowohl klassische \"Einarmige Banditen\" als auch moderne Videoslots mit einzigartigen Handlungen, Bonusrunden und progressiven Jackpots. Zu den Top-Titeln gehören \"Book of Dead\", \"Starburst\", \"Gonzo's Quest\". Auf der <mainPage>Hauptseite</mainPage> finden Sie eine große Auswahl an <slots>Slots</slots> von den besten Anbietern."
+      },
+      "tableGames": {
+        "title": "Tischspiele",
+        "text": "Für Klassik-Liebhaber sind virtuelle Versionen von Roulette, Blackjack, Poker und anderen Glücksspielen mit verschiedenen Einsatzlimits verfügbar."
+      },
+      "live": {
+        "title": "Live-Casino",
+        "text": "Spiele mit professionellen Dealern in Echtzeit ermöglichen es Ihnen, sich in die Atmosphäre eines echten Casinos zu vertiefen. Sie können Roulette, Blackjack, Baccarat und aufregende Spielshows von Giganten wie Evolution Gaming genießen. Die Einsätze variieren und beginnen bei symbolischen $1."
+      },
+      "tournaments": {
+        "title": "Turniere",
+        "text": "Vavada veranstaltet regelmäßig Turniere für registrierte Benutzer, bei denen Sie um große Geldpreise, Freispiele und Jackpots kämpfen können."
+      }
+    },
+    "registration": {
+      "title": "Registrierung und Spielbeginn",
+      "intro": "Der Prozess der Kontenerstellung bei Vavada ist einfach und intuitiv:",
+      "steps": {
+        "form": "Formular ausfüllen: Sie müssen einen Benutzernamen, ein Passwort, eine E-Mail-Adresse und andere Kontaktinformationen angeben.",
+        "currency": "Währungsauswahl: Spieler können eine bequeme Kontowährung wählen, einschließlich Rubel, Dollar oder Euro.",
+        "confirm": "Bestätigung: Sie müssen Ihr Alter und Ihre Zustimmung zu den Casino-Regeln bestätigen.",
+        "activate": "Aktivierung: Der Prozess wird abgeschlossen, indem Sie auf den Link in der E-Mail klicken oder den per SMS erhaltenen Code eingeben."
+      },
+      "after": "Nach der <registration>Registrierung</registration> erhalten Sie Zugang zu Ihrem persönlichen Konto, wo Sie Ihr Profil verwalten, Ihr Guthaben verfolgen, <bonuses>Boni</bonuses> aktivieren und Finanzoperationen durchführen können. Die Aufladung des Kontos und Abhebungen sind über verschiedene Methoden möglich: Kreditkarten (Visa/MasterCard), E-Wallets und Kryptowährungen."
+    },
+    "bonuses": {
+      "title": "Boni und Treueprogramm",
+      "intro": "Vavada belohnt sowohl neue als auch regelmäßige Kunden großzügig:",
+      "welcome": {
+        "title": "Willkommenspaket",
+        "text": "Neuen Spielern werden Freispiele und <bonuses>Boni</bonuses> auf ihre erste Einzahlung angeboten (z.B. bis zu 100% des Einzahlungsbetrags)."
+      },
+      "cashback": {
+        "title": "Monatlicher Cashback",
+        "text": "Spieler können einen Teil ihrer verlorenen Mittel zurückerhalten (z.B. 10%)."
+      },
+      "promo": {
+        "title": "Promo-Codes und Aktionen",
+        "text": "Ständig aktualisierte Angebote, die über E-Mail-Newsletter und offizielle Social-Media-Seiten verteilt werden."
+      },
+      "loyalty": {
+        "title": "Treueprogramm",
+        "text": "Ein mehrstufiges System (Anfänger-, Silber-, Gold-, Platin-Ebenen) bietet exklusive Privilegien. Punkte, die aus Wetten verdient werden, können gegen Geld eingetauscht oder zur Teilnahme an speziellen Turnieren verwendet werden. Es ist wichtig zu bedenken, dass die meisten <bonuses>Boni</bonuses> das Erfüllen bestimmter Bedingungen (Wager) erfordern, um freigeschaltet zu werden."
+      }
+    },
+    "security": {
+      "title": "Sicherheit und Support",
+      "intro": "Sicherheit ist eine der Hauptprioritäten von Vavada.",
+      "license": {
+        "title": "Lizenz",
+        "text": "Die Plattform arbeitet unter einer offiziellen Curacao-Lizenz, was ihre Legalität und Zuverlässigkeit bestätigt."
+      },
+      "data": {
+        "title": "Datenschutz",
+        "text": "Moderne Technologien werden zur Verschlüsselung persönlicher Informationen und Finanztransaktionen verwendet."
+      },
+      "support": {
+        "title": "Support-Service",
+        "text": "Technische Support-Spezialisten arbeiten 24/7 und beraten Benutzer prompt über Online-Chat, E-Mail oder Telefon."
+      }
+    },
+    "mirrors": {
+      "title": "Aktuelle Spiegel für den Zugang",
+      "intro": "Aufgrund gesetzlicher Beschränkungen in einigen Regionen kann der Zugang zur Haupt-<casino>Casino</casino>-Website blockiert sein. Um dieses Problem zu lösen, bietet Vavada aktuelle <mirrors>Spiegel</mirrors> - alternative Website-Adressen, die die Funktionalität der Hauptplattform vollständig kopieren und das gleiche Maß an <security>Sicherheit</security> bieten.",
+      "howTo": {
+        "title": "Wie finde ich einen funktionierenden Spiegel?",
+        "official": "Offizielle Kanäle: Der zuverlässigste Weg ist, den Casino-Newsletter zu abonnieren oder seinen Nachrichten in sozialen Medien zu folgen.",
+        "search": "Suchmaschinen: Geben Sie die Abfrage \"aktueller Vavada-Spiegel\" in die Suchmaschine ein.",
+        "forums": "Themenforen: Andere Spieler teilen dort oft funktionierende Links."
+      }
+    },
+    "tips": {
+      "title": "Tipps für erfolgreiches Spielen",
+      "rules": "Studieren Sie die Regeln: Bevor Sie mit dem Spielen beginnen, machen Sie sich mit den Regeln, Funktionen und dem RTP (Return to Player)-Indikator des ausgewählten <slot>Slots</slot> oder Tischspiels vertraut.",
+      "bankroll": "Verwalten Sie Ihr Bankroll: Setzen Sie klare Limits für Wetten und Einzahlungen, damit das Spielen Unterhaltung bleibt.",
+      "bonuses": "Nutzen Sie Boni: Nehmen Sie aktiv an Aktionen und dem Treueprogramm teil, um Ihre Chancen zu erhöhen und Ihre Spielsitzung zu verlängern.",
+      "updates": "Bleiben Sie auf dem Laufenden: Folgen Sie Updates auf offiziellen Ressourcen, um als Erster über neue <games>Spiele</games>, Aktionen und funktionierende <mirrors>Spiegel</mirrors> zu erfahren."
+    },
+    "conclusion": {
+      "title": "Fazit",
+      "text": "Vavada ist eine voll funktionsfähige, sichere und spielerorientierte Plattform. Eine große Auswahl an lizenzierten <games>Spielen</games>, profitable <bonuses>Boni</bonuses>, einfache <registration>Registrierung</registration> und zuverlässige Möglichkeiten zur Umgehung von Blockierungen machen es zu einer ausgezeichneten Wahl für Anfänger und erfahrene Spieler. Die ständige Verbesserung der Dienste und des Spielsortiments ermöglicht es Vavada, unter den Marktführern im Online-Glücksspielmarkt zu bleiben."
+    },
+    "cta": "Zur Startseite gehen"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Online Casino",
+      "description": "Spielen Sie bei Vavada"
+    }
+  }
+}
+

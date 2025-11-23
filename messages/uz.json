@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Kirish",
+    "register": "Ro'yxatdan o'tish",
+    "language": "Til",
+    "cancel": "Bekor qilish",
+    "continue": "Davom etish",
+    "categories": {
+      "slots": "Slotlar",
+      "live": "Jonli o'yinlar",
+      "review": "Ko'rib chiqish",
+      "crash": "Crash",
+      "tournament": "Turnirlar"
+    }
+  },
+  "header": {
+    "login": "Kirish",
+    "register": "Ro'yxatdan o'tish",
+    "review": "Ko'rib chiqish"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Bizga yozing",
+      "termsAndConditions": "Qoidalar va shartlar",
+      "privacyPolicy": "Maxfiylik siyosati",
+      "sportConditions": "Sport tikish qoidalari",
+      "affiliateProgram": "Hamkorlik dasturi",
+      "responsibleGaming": "Mas'uliyatli o'yin",
+      "review": "Ko'rib chiqish"
+    },
+    "apps": {
+      "ios": {
+        "label": "Ilova",
+        "os": "iOS uchun"
+      },
+      "android": {
+        "label": "Ilova",
+        "os": "Android uchun"
+      }
+    },
+    "payments": {
+      "title": "To'lov usullari"
+    },
+    "warning": {
+      "line1": "Qimor o'yinlari ko'ngil ochish uchun mo'ljallangan.",
+      "line2": "Tikish qo'yganingizda pulni xavf ostiga qo'yayotganingizni eslang.",
+      "line3": "Yo'qotishga qodir bo'lganingizdan ko'proq sarflamang."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Diqqat",
+    "redirectWarning": "Joriy oynaga o'tish"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "VAVADA-da jackpotlar",
+      "crypto": "Haqiqiy pul uchun Kripto turnir X",
+      "maxbet": "Faqat VAVADA-da eksklyuziv turnirlar",
+      "sport": "Express bonus 100% gacha"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "O'yinlarni qidirish",
+    "noGamesFound": "O'yinlar topilmadi",
+    "allProviders": "Barcha provayderlar",
+    "play": "O'ynash",
+    "demo": "Demo",
+    "playGame": "O'yinni boshlash",
+    "demoGame": "O'yinning demo versiyasi",
+    "moreGames": "KO'PROQ O'YINLAR",
+    "moreGamesDescription": "Ko'proq o'yinlar yuklanmoqda...",
+    "loadMore": "Ko'proq yuklash"
+  },
+  "breadcrumbs": {
+    "home": "Bosh sahifa"
+  },
+  "reviewSeo": {
+    "description": "Vavada Casino-ning to'liq sharhi: bonuslar, o'yinlar, ro'yxatdan o'tish va o'yinchilar sharhlari. Tez to'lovlar va saxiy xush kelibsiz bonuslari bilan eng yaxshi onlayn kazino haqida hamma narsani biling.",
+    "button": "To'liq sharh"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Onlayn kazino",
+      "description": "Vavada-da o'ynang"
+    }
+  }
+}
+

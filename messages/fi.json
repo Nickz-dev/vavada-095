@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Kirjaudu",
+    "register": "Rekisteröidy",
+    "language": "Kieli",
+    "cancel": "Peruuta",
+    "continue": "Jatka",
+    "categories": {
+      "slots": "Kolikkopelit",
+      "live": "Live-pelit",
+      "review": "Katsaus",
+      "crash": "Crash",
+      "tournament": "Turnaukset"
+    }
+  },
+  "header": {
+    "login": "Kirjaudu",
+    "register": "Rekisteröidy",
+    "review": "Arvostelu"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Kirjoita meille",
+      "termsAndConditions": "Säännöt ja ehdot",
+      "privacyPolicy": "Tietosuojakäytäntö",
+      "sportConditions": "Urheiluvedonlyöntisäännöt",
+      "affiliateProgram": "Kumppanuusohjelma",
+      "responsibleGaming": "Vastuullinen pelaaminen",
+      "review": "Arvostelu"
+    },
+    "apps": {
+      "ios": {
+        "label": "Sovellus",
+        "os": "iOS:lle"
+      },
+      "android": {
+        "label": "Sovellus",
+        "os": "Androidille"
+      }
+    },
+    "payments": {
+      "title": "Maksutavat"
+    },
+    "warning": {
+      "line1": "Uhkapelit on tarkoitettu viihdyttämään.",
+      "line2": "Muista, että riskität rahaa, kun asetat vedon.",
+      "line3": "Älä käytä enempää kuin voit tulla menettämään."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Huomio",
+    "redirectWarning": "Siirtyminen nykyiseen peiliin"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Jättipotit VAVADA:ssa",
+      "crypto": "Kryptoturnaus X oikealla rahalla",
+      "maxbet": "Eksklusiiviset turnaukset vain VAVADA:ssa",
+      "sport": "Express-bonus jopa 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Etsi pelejä",
+    "noGamesFound": "Pelejä ei löytynyt",
+    "allProviders": "Kaikki tarjoajat",
+    "play": "Pelaa",
+    "demo": "Demo",
+    "playGame": "Käynnistä peli",
+    "demoGame": "Pelin demoversio",
+    "moreGames": "LISÄÄ PELEJÄ",
+    "moreGamesDescription": "Ladataan lisää pelejä...",
+    "loadMore": "Lataa lisää"
+  },
+  "breadcrumbs": {
+    "home": "Koti"
+  },
+  "reviewSeo": {
+    "description": "Täydellinen arvostelu Vavada Casinosta: bonukset, pelit, rekisteröityminen ja pelaajien arvostelut. Opi kaikki parhaasta online-kasinosta nopeilla maksuilla ja anteliailla tervetulobonuksilla.",
+    "button": "Täydellinen arvostelu"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Online-kasino",
+      "description": "Pelaa Vavada-ssa"
+    }
+  }
+}
+

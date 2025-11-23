@@ -1,0 +1,213 @@
+{
+  "common": {
+    "login": "Login",
+    "register": "Register",
+    "language": "Language",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "categories": {
+      "slots": "Slots",
+      "live": "Live Games",
+      "review": "Review",
+      "crash": "Crash",
+      "tournament": "Events"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Home"
+  },
+  "header": {
+    "login": "Login",
+    "register": "Register",
+    "review": "Review"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Write to us",
+      "termsAndConditions": "Terms and conditions",
+      "privacyPolicy": "Privacy policy",
+      "sportConditions": "Sports betting rules",
+      "affiliateProgram": "Affiliate program",
+      "responsibleGaming": "Responsible gaming",
+      "review": "Review"
+    },
+    "apps": {
+      "ios": {
+        "label": "Application",
+        "os": "for iOS"
+      },
+      "android": {
+        "label": "Application",
+        "os": "for Android"
+      }
+    },
+    "payments": {
+      "title": "Payment methods"
+    },
+    "warning": {
+      "line1": "Gambling is meant to entertain.",
+      "line2": "Remember that you risk money when you place bets.",
+      "line3": "Do not spend more than you can afford to lose."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Attention",
+    "redirectWarning": "Redirecting to current mirror"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Jackpots on VAVADA",
+      "crypto": "Crypto Tournament X for Real Money",
+      "maxbet": "Exclusive Tournaments Only on VAVADA",
+      "sport": "Express Bonus up to 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Search games",
+    "noGamesFound": "No games found",
+    "allProviders": "All providers",
+    "play": "Play",
+    "demo": "Demo",
+    "playGame": "Launch game",
+    "demoGame": "Demo version of the game",
+    "moreGames": "MORE GAMES",
+    "moreGamesDescription": "Loading more games...",
+    "loadMore": "Load More"
+  },
+  "reviewSeo": {
+    "description": "Complete review of Vavada Casino: bonuses, games, registration and player reviews. Learn everything about the best online casino with fast payouts and generous welcome bonuses.",
+    "button": "Full Review"
+  },
+  "review": {
+    "title": "Complete Review of Vavada Online Casino: Games, Bonuses, Security and Mirrors",
+    "intro": "Vavada is one of the most popular <casino>online casinos</casino> among players from Russia and CIS countries, attracting attention with its huge game catalog, generous bonus program and user-friendly interface. This detailed review covers all key aspects of the platform, from registration and game selection to security and bypassing blocks.",
+    "toc": {
+      "title": "Table of Contents",
+      "games": "Game Portfolio and Platform Functionality",
+      "registration": "Registration and Getting Started",
+      "bonuses": "Bonuses and Loyalty Program",
+      "security": "Security and Support",
+      "mirrors": "Current Mirrors for Access",
+      "tips": "Tips for Successful Gaming"
+    },
+    "games": {
+      "title": "Game Portfolio and Platform Functionality",
+      "intro": "Vavada offers an impressive collection of thousands of entertainment options from leading global providers such as NetEnt, Microgaming, <playngo>Play'n GO</playngo>, <evolution>Evolution Gaming</evolution> and others. Thanks to a convenient filtering and sorting system by popularity and novelty, every player will easily find a suitable option.",
+      "slots": {
+        "title": "Slot Machines (Slots)",
+        "text": "This is the foundation of the catalog. Here you can find both classic \"one-armed bandits\" and modern video slots with unique plots, bonus rounds and progressive jackpots. Among the top titles are \"Book of Dead\", \"Starburst\", \"Gonzo's Quest\". On the <mainPage>main page</mainPage> you will find a wide selection of <slots>slots</slots> from the best providers."
+      },
+      "tableGames": {
+        "title": "Table Games",
+        "text": "For classic lovers, virtual versions of roulette, blackjack, poker and other gambling games with various betting limits are available."
+      },
+      "live": {
+        "title": "Live Casino",
+        "text": "Games with professional dealers in real-time allow you to immerse yourself in the atmosphere of a real casino. You can enjoy roulette, blackjack, baccarat and exciting game shows from giants like Evolution Gaming. Betting limits vary, starting from symbolic $1."
+      },
+      "tournaments": {
+        "title": "Tournaments",
+        "text": "Vavada regularly holds tournaments for registered users where you can compete for large cash prizes, free spins and jackpots."
+      }
+    },
+    "registration": {
+      "title": "Registration and Getting Started",
+      "intro": "The process of creating an account at Vavada is simple and intuitive:",
+      "steps": {
+        "form": "Filling out the form: You need to provide a username, password, email and other contact information.",
+        "currency": "Currency selection: Players can choose a convenient account currency, including rubles, dollars or euros.",
+        "confirm": "Confirmation: You need to confirm your age and agreement with the casino rules.",
+        "activate": "Activation: The process is completed by clicking the link from the email or entering the code received via SMS."
+      },
+      "after": "After <registration>registration</registration>, you get access to your personal account where you can manage your profile, track your balance, activate <bonuses>bonuses</bonuses> and perform financial operations. Account top-up and withdrawals are possible through various methods: credit cards (Visa/MasterCard), e-wallets and cryptocurrencies."
+    },
+    "bonuses": {
+      "title": "Bonuses and Loyalty Program",
+      "intro": "Vavada generously rewards both new and regular customers:",
+      "welcome": {
+        "title": "Welcome Package",
+        "text": "New players are offered free spins and <bonuses>bonuses</bonuses> on their first deposit (e.g., up to 100% of the deposit amount)."
+      },
+      "cashback": {
+        "title": "Monthly Cashback",
+        "text": "Players can get back part of their lost funds (e.g., 10%)."
+      },
+      "promo": {
+        "title": "Promo Codes and Promotions",
+        "text": "Constantly updated offers distributed through email newsletters and official social media pages."
+      },
+      "loyalty": {
+        "title": "Loyalty Program",
+        "text": "A multi-level system (Beginner, Silver, Gold, Platinum levels) provides exclusive privileges. Points earned from bets can be exchanged for money or used to participate in special tournaments. It's important to remember that most <bonuses>bonuses</bonuses> require meeting certain conditions (wagering) to be unlocked."
+      }
+    },
+    "security": {
+      "title": "Security and Support",
+      "intro": "Security is one of Vavada's main priorities.",
+      "license": {
+        "title": "License",
+        "text": "The platform operates under an official Curacao license, confirming its legality and reliability."
+      },
+      "data": {
+        "title": "Data Protection",
+        "text": "Modern technologies are used to encrypt personal information and financial transactions."
+      },
+      "support": {
+        "title": "Support Service",
+        "text": "Technical support specialists work 24/7 and promptly consult users via online chat, email or phone."
+      }
+    },
+    "mirrors": {
+      "title": "Current Mirrors for Access",
+      "intro": "Due to legislative restrictions in some regions, access to the main <casino>casino</casino> site may be blocked. To solve this problem, Vavada provides current <mirrors>mirrors</mirrors> - alternative site addresses that completely copy the functionality of the main platform and provide the same level of <security>security</security>.",
+      "howTo": {
+        "title": "How to Find a Working Mirror?",
+        "official": "Official channels: The most reliable way is to subscribe to the casino newsletter or follow its news on social media.",
+        "search": "Search engines: Enter the query \"current Vavada mirror\" in the search engine.",
+        "forums": "Thematic forums: Other players often share working links there."
+      }
+    },
+    "tips": {
+      "title": "Tips for Successful Gaming",
+      "rules": "Study the rules: Before starting to play, familiarize yourself with the rules, features and RTP (return to player) indicator of the selected <slot>slot</slot> or table game.",
+      "bankroll": "Manage your bankroll: Clearly set limits on bets and deposits so that gaming remains entertainment.",
+      "bonuses": "Use bonuses: Actively participate in promotions and the loyalty program to increase your chances and extend your gaming session.",
+      "updates": "Stay updated: Follow updates on official resources to be the first to learn about new <games>games</games>, promotions and working <mirrors>mirrors</mirrors>."
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "text": "Vavada is a fully functional, secure and player-oriented platform. A wide selection of licensed <games>games</games>, profitable <bonuses>bonuses</bonuses>, simple <registration>registration</registration> and reliable ways to bypass blocks make it an excellent choice for both beginners and experienced players. Constant improvement of services and game assortment allows Vavada to remain among the leaders in the online gambling market."
+    },
+    "cta": "Go to Home Page"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Online Casino",
+      "description": "Play at Vavada"
+    }
+  }
+}
+

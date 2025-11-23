@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #ffffff;
+}
+
+body {
+  color: var(--foreground);
+  background: #1F2132;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Скрытие скроллбара на десктопах */
+@media (min-width: 768px) {
+  /* Для WebKit браузеров (Chrome, Safari, Edge) */
+  body::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+  }
+  
+  /* Для Firefox */
+  html {
+    scrollbar-width: none;
+  }
+  
+  /* Для IE и старых Edge */
+  body {
+    -ms-overflow-style: none;
+  }
+}
+
+/* Скрытие скроллбара в выпадающих списках */
+.overflow-y-auto::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+/* Фон секции игр - SVG только на десктопе */
+.games-section-bg {
+  background-color: #1F2132;
+}
+
+@media (min-width: 768px) {
+  .games-section-bg {
+    background-color: #151723;
+    background-image: url(/assets/images/back_games_wided.svg);
+    background-size: auto;
+    background-position: 0 0;
+    background-repeat: repeat;
+  }
+}
+

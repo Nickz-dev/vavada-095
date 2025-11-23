@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Σύνδεση",
+    "register": "Εγγραφή",
+    "language": "Γλώσσα",
+    "cancel": "Ακύρωση",
+    "continue": "Συνέχεια",
+    "categories": {
+      "slots": "Σλοτ",
+      "live": "Ζωντανά παιχνίδια",
+      "review": "Επισκόπηση",
+      "crash": "Crash",
+      "tournament": "Τουρνουά"
+    }
+  },
+  "header": {
+    "login": "Σύνδεση",
+    "register": "Εγγραφή",
+    "review": "Ανασκόπηση"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Γράψτε μας",
+      "termsAndConditions": "Κανόνες και όροι",
+      "privacyPolicy": "Πολιτική απορρήτου",
+      "sportConditions": "Κανόνες αθλητικών στοιχημάτων",
+      "affiliateProgram": "Πρόγραμμα συνεργατών",
+      "responsibleGaming": "Υπεύθυνος τζόγος",
+      "review": "Ανασκόπηση"
+    },
+    "apps": {
+      "ios": {
+        "label": "Εφαρμογή",
+        "os": "για iOS"
+      },
+      "android": {
+        "label": "Εφαρμογή",
+        "os": "για Android"
+      }
+    },
+    "payments": {
+      "title": "Τρόποι πληρωμής"
+    },
+    "warning": {
+      "line1": "Οι τυχεροί παιχνίδια προορίζονται για ψυχαγωγία.",
+      "line2": "Θυμηθείτε ότι διακινδυνεύετε χρήματα όταν τοποθετείτε στοιχήματα.",
+      "line3": "Μην ξοδεύετε περισσότερα από όσα μπορείτε να αντέξετε να χάσετε."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Προσοχή",
+    "redirectWarning": "Μετάβαση στον τρέχοντα καθρέπτη"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Τζάκποτ στο VAVADA",
+      "crypto": "Κρυπτο τουρνουά X για πραγματικά χρήματα",
+      "maxbet": "Αποκλειστικά τουρνουά μόνο στο VAVADA",
+      "sport": "Μπόνους express έως 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Αναζήτηση παιχνιδιών",
+    "noGamesFound": "Δεν βρέθηκαν παιχνίδια",
+    "allProviders": "Όλοι οι παρόχοι",
+    "play": "Παίξτε",
+    "demo": "Demo",
+    "playGame": "Εκκίνηση παιχνιδιού",
+    "demoGame": "Demo έκδοση του παιχνιδιού",
+    "moreGames": "ΠΕΡΙΣΣΌΤΕΡΑ ΠΑΙΧΝΊΔΙΑ",
+    "moreGamesDescription": "Φόρτωση περισσότερων παιχνιδιών...",
+    "loadMore": "Φόρτωση περισσότερων"
+  },
+  "breadcrumbs": {
+    "home": "Αρχική"
+  },
+  "reviewSeo": {
+    "description": "Πλήρης ανασκόπηση του Vavada Casino: μπόνους, παιχνίδια, εγγραφή και κριτικές παικτών. Μάθετε τα πάντα για το καλύτερο online καζίνο με γρήγορες πληρωμές και γενναιόδωρα μπόνους υποδοχής.",
+    "button": "Πλήρης Ανασκόπηση"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Online Casino",
+      "description": "Παίξτε στο Vavada"
+    }
+  }
+}
+

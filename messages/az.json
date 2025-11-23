@@ -1,0 +1,213 @@
+{
+  "common": {
+    "login": "Daxil ol",
+    "register": "Qeydiyyat",
+    "language": "Dil",
+    "cancel": "Ləğv et",
+    "continue": "Davam et",
+    "categories": {
+      "slots": "Slotlar",
+      "live": "Canlı oyunlar",
+      "review": "Baxış",
+      "crash": "Crash",
+      "tournament": "Turnirlər"
+    }
+  },
+  "header": {
+    "login": "Daxil ol",
+    "register": "Qeydiyyat",
+    "review": "Baxış"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Bizə yazın",
+      "termsAndConditions": "Qaydalar və şərtlər",
+      "privacyPolicy": "Məxfilik siyasəti",
+      "sportConditions": "İdman mərcləri qaydaları",
+      "affiliateProgram": "Tərəfdaşlıq proqramı",
+      "responsibleGaming": "Məsuliyyətli oyun",
+      "review": "Baxış"
+    },
+    "apps": {
+      "ios": {
+        "label": "Tətbiq",
+        "os": "iOS üçün"
+      },
+      "android": {
+        "label": "Tətbiq",
+        "os": "Android üçün"
+      }
+    },
+    "payments": {
+      "title": "Ödəniş üsulları"
+    },
+    "warning": {
+      "line1": "Qumar oyunları əyləncə üçündür.",
+      "line2": "Mərc qoyarkən pul riskinə düşdüyünüzü xatırlayın.",
+      "line3": "İtirə biləcəyinizdən çox xərcləməyin."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Diqqət",
+    "redirectWarning": "Cari güzgüyə keçid"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "VAVADA-da cekpotlar",
+      "crypto": "Kripto turniri X real pul üçün",
+      "maxbet": "Ekskluziv turnirlər yalnız VAVADA-da",
+      "sport": "Ekspress bonus 100%-ə qədər"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Oyunlar axtar",
+    "noGamesFound": "Oyun tapılmadı",
+    "allProviders": "Bütün provayderlər",
+    "play": "Oyna",
+    "demo": "Demo",
+    "playGame": "Oyunu başlat",
+    "demoGame": "Oyunun demo versiyası",
+    "moreGames": "DAHA ÇOX OYUN",
+    "moreGamesDescription": "Daha çox oyun yüklənir...",
+    "loadMore": "Daha çox yüklə"
+  },
+  "reviewSeo": {
+    "description": "Vavada Casino-nun tam baxışı: bonuslar, oyunlar, qeydiyyat və oyunçu rəyləri. Sürətli ödənişlər və səxavətli xoş gəlmə bonusları ilə ən yaxşı onlayn kazino haqqında hər şeyi öyrənin.",
+    "button": "Tam baxış"
+  },
+  "breadcrumbs": {
+    "home": "Ana səhifə"
+  },
+  "review": {
+    "title": "Vavada Online Casino-nun Tam Baxışı: Oyunlar, Bonuslar, Təhlükəsizlik və Güzgülər",
+    "intro": "Vavada, Rusiya və BDT ölkələrindən oyunçular arasında ən populyar onlayn kazinolar arasında yer alan, böyük oyun kataloqu, səxavətli bonus proqramı və istifadəçi dostu interfeysi ilə diqqət çəkən bir platformadır. Bu ətraflı baxış, qeydiyyat və oyun seçimindən təhlükəsizlik və bloklamaları aşmağa qədər platformanın bütün vacib aspektlərini əhatə edir.",
+    "toc": {
+      "title": "Məzmun",
+      "games": "Oyun Portfeli və Platforma Funksionallığı",
+      "registration": "Qeydiyyat və Oyun Başlatma",
+      "bonuses": "Bonuslar və Sədaqət Proqramı",
+      "security": "Təhlükəsizlik və Dəstək",
+      "mirrors": "Giriş üçün Cari Güzgülər",
+      "tips": "Uğurlu Oyun üçün Məsləhətlər"
+    },
+    "games": {
+      "title": "Oyun Portfeli və Platforma Funksionallığı",
+      "intro": "Vavada, NetEnt, Microgaming, Play'n GO, Evolution Gaming və digər aparıcı qlobal provayderlərdən minlərlə əyləncə seçimindən ibarət təsirli bir kolleksiya təklif edir. Populyarlıq və yeniliyə görə rahat filtrləmə və sıralama sistemi sayəsində hər oyunçu asanlıqla uyğun bir seçim tapacaq.",
+      "slots": {
+        "title": "Slot Maşınları (Slotlar)",
+        "text": "Bu, kataloqun əsasını təşkil edir. Burada həm klassik \"bir qollu banditlər\", həm də unikal süjetləri, bonus raundları və progressiv cekpotları olan müasir video slotları tapa bilərsiniz. Ən yaxşı başlıqlar arasında \"Book of Dead\", \"Starburst\", \"Gonzo's Quest\" var. Ana səhifədə ən yaxşı provayderlərdən geniş slot seçimi tapacaqsınız."
+      },
+      "tableGames": {
+        "title": "Masa Oyunları",
+        "text": "Klassik sevənlər üçün müxtəlif mərc limitləri ilə rulet, blackjack, poker və digər qumar oyunlarının virtual versiyaları mövcuddur."
+      },
+      "live": {
+        "title": "Canlı Casino",
+        "text": "Gerçək zamanlı peşəkar krupiyelerlə oyunlar, gerçək bir kazino atmosferinə özünüzü qaptırmanıza imkan verir. Evolution Gaming kimi nəhənglərdən rulet, blackjack, baccarat və həyəcan verici oyun şoularının ləzzətini çıxara bilərsiniz. Mərc limitləri dəyişir və simvolik $1-dən başlayır."
+      },
+      "tournaments": {
+        "title": "Turnirlər",
+        "text": "Vavada, qeydiyyatdan keçmiş istifadəçilər üçün böyük pul mükafatları, pulsuz dönüşlər və cekpotlar üçün yarışa biləcəyiniz turnirlər təşkil edir."
+      }
+    },
+    "registration": {
+      "title": "Qeydiyyat və Oyun Başlatma",
+      "intro": "Vavada-da hesab yaratma prosesi sadə və intuitivdir:",
+      "steps": {
+        "form": "Formu doldurma: İstifadəçi adı, şifrə, e-poçt və digər əlaqə məlumatlarını təmin etməlisiniz.",
+        "currency": "Valyuta seçimi: Oyunçular rubl, dollar və ya avro daxil olmaqla rahat bir hesab valyutası seçə bilərlər.",
+        "confirm": "Təsdiqləmə: Yaşınızı və kazino qaydalarına razılığınızı təsdiqləməlisiniz.",
+        "activate": "Aktivləşdirmə: Proses e-poçtdakı keçidə klikləməklə və ya SMS ilə alınan kodu daxil etməklə tamamlanır."
+      },
+      "after": "Qeydiyyatdan sonra profilinizi idarə edə biləcəyiniz, balansınızı izləyə biləcəyiniz, bonusları aktivləşdirə biləcəyiniz və maliyyə əməliyyatları həyata keçirə biləcəyiniz şəxsi hesabınıza giriş əldə edirsiniz. Hesab yükləmə və pul çıxarma, kredit kartları (Visa/MasterCard), elektron cüzdanlar və kripto valyutalar daxil olmaqla müxtəlif üsullarla mümkündür."
+    },
+    "bonuses": {
+      "title": "Bonuslar və Sədaqət Proqramı",
+      "intro": "Vavada həm yeni, həm də daimi müştəriləri səxavətlə mükafatlandırır:",
+      "welcome": {
+        "title": "Xoş Gəlmə Paketi",
+        "text": "Yeni oyunçulara ilk depozitlərdə pulsuz dönüşlər və bonuslar təklif olunur (məsələn, depozit məbləğinin 100%-ə qədər)."
+      },
+      "cashback": {
+        "title": "Aylıq Nəğd Geri Qaytarma",
+        "text": "Oyunçular itirilmiş vəsaitlərin bir hissəsini geri ala bilərlər (məsələn, 10%)."
+      },
+      "promo": {
+        "title": "Promo Kodları və Promosyonlar",
+        "text": "E-poçt bülletenləri və rəsmi sosial media səhifələri vasitəsilə paylanan daim yenilənən təkliflər."
+      },
+      "loyalty": {
+        "title": "Sədaqət Proqramı",
+        "text": "Çox səviyyəli sistem (Başlanğıc, Gümüş, Qızıl, Platin səviyyələri) ekskluziv imtiyazlar təmin edir. Mərclərdən qazanılan ballar pula çevrilə bilər və ya xüsusi turnirlərdə iştirak etmək üçün istifadə edilə bilər. Əksər bonusların kilidini açmaq üçün müəyyən şərtləri (mərc tələbi) yerinə yetirmək lazım olduğunu xatırlamaq vacibdir."
+      }
+    },
+    "security": {
+      "title": "Təhlükəsizlik və Dəstək",
+      "intro": "Təhlükəsizlik Vavada-nın əsas prioritetlərindən biridir.",
+      "license": {
+        "title": "Lisenziya",
+        "text": "Platforma, onun qanuniliyini və etibarlılığını təsdiqləyən rəsmi Curacao lisenziyası altında işləyir."
+      },
+      "data": {
+        "title": "Məlumat Qorunması",
+        "text": "Şəxsi məlumatları və maliyyə əməliyyatlarını şifrələmək üçün müasir texnologiyalar istifadə olunur."
+      },
+      "support": {
+        "title": "Dəstək Xidməti",
+        "text": "Texniki dəstək mütəxəssisləri 7/24 işləyir və istifadəçilərə onlayn söhbət, e-poçt və ya telefon vasitəsilə tez məsləhət verirlər."
+      }
+    },
+    "mirrors": {
+      "title": "Giriş üçün Cari Güzgülər",
+      "intro": "Bəzi bölgələrdəki qanuni məhdudiyyətlər səbəbindən əsas kazino saytına giriş bloklanmış ola bilər. Bu problemi həll etmək üçün Vavada, əsas platformanın funksionallığını tamamilə kopyalayan və eyni təhlükəsizlik səviyyəsini təmin edən alternativ sayt ünvanları olan cari güzgülər təmin edir.",
+      "howTo": {
+        "title": "İşləyən Güzgü Necə Tapılır?",
+        "official": "Rəsmi kanallar: Ən etibarlı yol, kazino bülleteninə abunə olmaq və ya sosial mediada xəbərlərini izləməkdir.",
+        "search": "Axtarış motorları: Axtarış motoruna \"cari Vavada güzgüsü\" sorğusunu daxil edin.",
+        "forums": "Tematik forumlar: Digər oyunçular tez-tez orada işləyən keçidləri paylaşırlar."
+      }
+    },
+    "tips": {
+      "title": "Uğurlu Oyun üçün Məsləhətlər",
+      "rules": "Qaydaları öyrənin: Oynamaya başlamazdan əvvəl, seçilmiş slot və ya masa oyununun qaydaları, xüsusiyyətləri və RTP (oyunçuya geri qayıtma) göstəricisini öyrənin.",
+      "bankroll": "Bankroll-unuzu idarə edin: Oyunun əyləncə qalması üçün mərclər və depozitlər üçün aydın limitlər təyin edin.",
+      "bonuses": "Bonuslardan istifadə edin: Şansınızı artırmaq və oyun sessiyanızı uzatmaq üçün promosyonlara və sədaqət proqramına aktiv şəkildə qatılın.",
+      "updates": "Güncel qalın: Yeni oyunlar, promosyonlar və işləyən güzgülər haqqında ilk öyrənmək üçün rəsmi resurslardakı yeniləmələri izləyin."
+    },
+    "conclusion": {
+      "title": "Nəticə",
+      "text": "Vavada tam funksional, təhlükəsiz və oyunçu yönümlü bir platformadır. Geniş lisenziyalı oyun seçimi, sərfəli bonuslar, sadə qeydiyyat və bloklamaları aşmanın etibarlı yolları, onu həm yeni başlayanlar, həm də təcrübəli oyunçular üçün mükəmməl bir seçim halına gətirir. Xidmətlərin və oyun çeşidlərinin daimi təkmilləşdirilməsi, Vavada-nın onlayn qumar bazarındakı liderlər arasında qalmasına imkan verir."
+    },
+    "cta": "Ana Səhifəyə Keç"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Onlayn Kazino",
+      "description": "Vavada-də oynayın"
+    }
+  }
+}
+

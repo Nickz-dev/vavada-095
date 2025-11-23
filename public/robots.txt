@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /en/redirect/
+Disallow: /ru/redirect/
+Disallow: /*/redirect/
+
+Sitemap: https://{{YOUR_DOMAIN}}.com/sitemap.xml
+

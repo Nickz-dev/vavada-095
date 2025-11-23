@@ -1,0 +1,111 @@
+{
+  "common": {
+    "login": "Logga in",
+    "register": "Registrera",
+    "language": "Språk",
+    "cancel": "Avbryt",
+    "continue": "Fortsätt",
+    "categories": {
+      "slots": "Spelautomater",
+      "live": "Live-spel",
+      "review": "Granskning",
+      "crash": "Crash",
+      "tournament": "Turneringar"
+    }
+  },
+  "header": {
+    "login": "Logga in",
+    "register": "Registrera",
+    "review": "Recension"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "links": {
+      "contactUs": "Skriv till oss",
+      "termsAndConditions": "Regler och villkor",
+      "privacyPolicy": "Integritetspolicy",
+      "sportConditions": "Sportbettingregler",
+      "affiliateProgram": "Affiliateprogram",
+      "responsibleGaming": "Ansvarsfullt spelande",
+      "review": "Recension"
+    },
+    "apps": {
+      "ios": {
+        "label": "Applikation",
+        "os": "för iOS"
+      },
+      "android": {
+        "label": "Applikation",
+        "os": "för Android"
+      }
+    },
+    "payments": {
+      "title": "Betalningsmetoder"
+    },
+    "warning": {
+      "line1": "Spel är avsett att underhålla.",
+      "line2": "Kom ihåg att du riskerar pengar när du satsar.",
+      "line3": "Spendera inte mer än du har råd att förlora."
+    },
+    "language": {
+      "en": "ENGLISH",
+      "az": "AZƏRBAYCAN",
+      "bg": "БЪЛГАРСКИ",
+      "de": "DEUTSCH",
+      "el": "ΕΛΛΗΝΙΚΆ",
+      "es-mx": "ESPAÑOL",
+      "fi": "SUOMI",
+      "fr-ca": "FRANÇAIS",
+      "hi": "हिन्दी",
+      "hu": "MAGYAR",
+      "it": "ITALIANO",
+      "ja": "日本語",
+      "kk": "ҚАЗАҚША",
+      "ko": "한국어",
+      "pl": "POLSKI",
+      "pt-br": "PORTUGUÊS",
+      "ru": "РУССКИЙ",
+      "sv": "SVENSKA",
+      "tr": "TÜRKÇE",
+      "uz": "O'ZBEKCHA"
+    }
+  },
+  "modal": {
+    "attention": "Uppmärksamhet",
+    "redirectWarning": "Omdirigering till aktuell spegel"
+  },
+  "hero": {
+    "slides": {
+      "jackpot": "Jackpots på VAVADA",
+      "crypto": "Kryptoturnering X för riktiga pengar",
+      "maxbet": "Exklusiva turneringar endast på VAVADA",
+      "sport": "Expressbonus upp till 100%"
+    }
+  },
+  "games": {
+    "searchPlaceholder": "Sök spel",
+    "noGamesFound": "Inga spel hittades",
+    "allProviders": "Alla leverantörer",
+    "play": "Spela",
+    "demo": "Demo",
+    "playGame": "Starta spel",
+    "demoGame": "Demoversion av spelet",
+    "moreGames": "FLER SPEL",
+    "moreGamesDescription": "Laddar fler spel...",
+    "loadMore": "Ladda mer"
+  },
+  "breadcrumbs": {
+    "home": "Hem"
+  },
+  "reviewSeo": {
+    "description": "Komplett översikt av Vavada Casino: bonusar, spel, registrering och spelarrecensioner. Lär dig allt om det bästa onlinekasinot med snabba utbetalningar och generösa välkomstbonusar.",
+    "button": "Komplett Översikt"
+  },
+  "seo": {
+    "home": {
+      "title": "Vavada - Online Casino",
+      "description": "Spela på Vavada"
+    }
+  }
+}
+
