@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { locales } from '@/i18n/config';
 import { generateSEOMetadata } from '@/components/SEO/SEO';
 import StructuredData from '@/components/SEO/StructuredData';
+import GoogleAnalytics from '@/components/GoogleAnalytics';
 import '../globals.css';
 
 export function generateStaticParams() {
@@ -44,6 +45,7 @@ export default async function LocaleLayout({
         <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" />
       </head>
       <body>
+        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
         <StructuredData locale={locale} type="WebSite" />
         <StructuredData locale={locale} type="Organization" />
         <NextIntlClientProvider messages={messages}>

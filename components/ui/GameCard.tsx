@@ -136,7 +136,7 @@ export default function GameCard({ game }: GameCardProps) {
                 setIsPlayModalOpen(false);
                 // Редирект на главную страницу через скрытый раздел
                 const params = new URLSearchParams({
-                  external: encodeURIComponent('https://vavada2.c-wn.ru/'),
+                  external: encodeURIComponent('https://vavada2.slot24.bet'),
                   ref: `game-play-${game.id}`,
                 });
                 setTimeout(() => {

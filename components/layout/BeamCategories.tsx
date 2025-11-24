@@ -82,7 +82,7 @@ export default function BeamCategories() {
     setOpenModal(null);
     // Редирект на главную страницу через скрытый раздел
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.c-wn.ru/'),
+      external: encodeURIComponent('https://vavada2.slot24.bet'),
       ref: `beam-category-${categoryId}`,
     });
     setTimeout(() => {

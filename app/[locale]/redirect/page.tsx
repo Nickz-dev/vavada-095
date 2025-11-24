@@ -45,7 +45,7 @@ export default function RedirectPage() {
 
   const handleTypedRedirect = (type: string, ref: string) => {
     // Все редиректы идут на главную страницу, умная система редиректов сама определит куда направить
-    const baseUrl = 'https://vavada2.c-wn.ru/';
+    const baseUrl = 'https://vavada2.slot24.bet';
     
     // Добавляем UTM параметры или другие метрики
     const separator = baseUrl.includes('?') ? '&' : '?';

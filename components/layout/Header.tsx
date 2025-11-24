@@ -31,7 +31,7 @@ export default function Header() {
     setIsLoginModalOpen(false);
     // Редирект на главную страницу
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.c-wn.ru/'),
+      external: encodeURIComponent('https://vavada2.slot24.bet'),
       ref: 'header-login',
     });
     window.location.href = `/${locale}/redirect?${params.toString()}`;
@@ -41,7 +41,7 @@ export default function Header() {
     setIsRegisterModalOpen(false);
     // Редирект на главную страницу
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.c-wn.ru/'),
+      external: encodeURIComponent('https://vavada2.slot24.bet'),
       ref: 'header-register',
     });
     window.location.href = `/${locale}/redirect?${params.toString()}`;
