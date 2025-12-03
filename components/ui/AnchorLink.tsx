@@ -2,6 +2,7 @@
 
 import { useState, ReactNode } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
+import { useRouter } from 'next/navigation';
 import Modal from './Modal';
 
 interface AnchorLinkProps {
@@ -33,6 +34,7 @@ export default function AnchorLink({
 }: AnchorLinkProps) {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const locale = useLocale();
+  const router = useRouter();
   const t = useTranslations();
 
   const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
@@ -71,15 +73,15 @@ export default function AnchorLink({
   const performRedirect = () => {
     if (!redirectUrl) return;
 
-    // Формируем URL для редиректа через скрытый раздел
+    // Формируем URL для редиректа через внутреннюю страницу redirect
     // Используем query параметры для передачи данных
     const params = new URLSearchParams({
       external: encodeURIComponent(redirectUrl),
       ref: refParam || 'anchor-link',
     });
 
-    // Переходим через скрытый раздел /redirect
-    window.location.href = `/${locale}/redirect?${params.toString()}`;
+    // Переходим через внутреннюю страницу /redirect (закрыта в robots.txt)
+    router.push(`/${locale}/redirect?${params.toString()}`);
   };
 
   const handleModalConfirm = () => {

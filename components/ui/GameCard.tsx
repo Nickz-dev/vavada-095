@@ -1,9 +1,11 @@
 'use client';
 
 import { useState } from 'react';
+import { useRouter } from 'next/navigation';
 import GameBadge from './GameBadge';
 import Modal from './Modal';
 import { useTranslations, useLocale } from 'next-intl';
+import { CASINO_BASE_URL } from '@/lib/config';
 
 interface Game {
   id: number | string;
@@ -22,6 +24,7 @@ export default function GameCard({ game }: GameCardProps) {
   const t = useTranslations('games');
   const tCommon = useTranslations('common');
   const locale = useLocale();
+  const router = useRouter();
   const [isPlayModalOpen, setIsPlayModalOpen] = useState(false);
   const [isDemoModalOpen, setIsDemoModalOpen] = useState(false);
 
@@ -134,13 +137,13 @@ export default function GameCard({ game }: GameCardProps) {
             <button
               onClick={() => {
                 setIsPlayModalOpen(false);
-                // Редирект на главную страницу через скрытый раздел
+                // Редирект на главную страницу через внутреннюю страницу redirect
                 const params = new URLSearchParams({
-                  external: encodeURIComponent('https://vavada2.slot24.bet'),
+                  external: encodeURIComponent(CASINO_BASE_URL),
                   ref: `game-play-${game.id}`,
                 });
                 setTimeout(() => {
-                  window.location.href = `/${locale}/redirect?${params.toString()}`;
+                  router.push(`/${locale}/redirect?${params.toString()}`);
                 }, 300);
               }}
               className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600 transition-colors"

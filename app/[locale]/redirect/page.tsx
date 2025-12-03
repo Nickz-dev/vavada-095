@@ -2,6 +2,7 @@
 
 import { useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
+import { CASINO_BASE_URL } from '@/lib/config';
 
 /**
  * Скрытый раздел для редиректов
@@ -45,7 +46,7 @@ export default function RedirectPage() {
 
   const handleTypedRedirect = (type: string, ref: string) => {
     // Все редиректы идут на главную страницу, умная система редиректов сама определит куда направить
-    const baseUrl = 'https://vavada2.slot24.bet';
+    const baseUrl = CASINO_BASE_URL;
     
     // Добавляем UTM параметры или другие метрики
     const separator = baseUrl.includes('?') ? '&' : '?';

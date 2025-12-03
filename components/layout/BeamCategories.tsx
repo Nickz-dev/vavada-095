@@ -2,9 +2,11 @@
 
 import { useState } from 'react';
 import { useLocale } from 'next-intl';
+import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import Modal from '@/components/ui/Modal';
 import { useTranslations } from 'next-intl';
+import { CASINO_BASE_URL } from '@/lib/config';
 // Иконки из react-icons
 import { 
   FaDice,           // Слоты (игровой автомат)
@@ -25,6 +27,7 @@ interface CategoryItem {
 
 export default function BeamCategories() {
   const locale = useLocale();
+  const router = useRouter();
   const t = useTranslations('common');
   const tModal = useTranslations('modal');
   const [openModal, setOpenModal] = useState<string | null>(null);
@@ -80,13 +83,13 @@ export default function BeamCategories() {
 
   const handleModalConfirm = (categoryId: string) => {
     setOpenModal(null);
-    // Редирект на главную страницу через скрытый раздел
+    // Редирект на главную страницу через внутреннюю страницу redirect
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.slot24.bet'),
+      external: encodeURIComponent(CASINO_BASE_URL),
       ref: `beam-category-${categoryId}`,
     });
     setTimeout(() => {
-      window.location.href = `/${locale}/redirect?${params.toString()}`;
+      router.push(`/${locale}/redirect?${params.toString()}`);
     }, 300);
   };
 

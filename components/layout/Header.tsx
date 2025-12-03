@@ -2,9 +2,11 @@
 
 import { useState, useEffect } from 'react';
 import { useTranslations, useLocale } from 'next-intl';
+import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Modal from '@/components/ui/Modal';
 import Link from 'next/link';
+import { CASINO_BASE_URL } from '@/lib/config';
 
 /**
  * Header компонент
@@ -14,6 +16,7 @@ export default function Header() {
   const tModal = useTranslations('modal');
   const tCommon = useTranslations('common');
   const locale = useLocale();
+  const router = useRouter();
   const [isLoginModalOpen, setIsLoginModalOpen] = useState(false);
   const [isRegisterModalOpen, setIsRegisterModalOpen] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -29,22 +32,22 @@ export default function Header() {
 
   const handleLogin = () => {
     setIsLoginModalOpen(false);
-    // Редирект на главную страницу
+    // Редирект на главную страницу через внутреннюю страницу redirect
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.slot24.bet'),
+      external: encodeURIComponent(CASINO_BASE_URL),
       ref: 'header-login',
     });
-    window.location.href = `/${locale}/redirect?${params.toString()}`;
+    router.push(`/${locale}/redirect?${params.toString()}`);
   };
 
   const handleRegister = () => {
     setIsRegisterModalOpen(false);
-    // Редирект на главную страницу
+    // Редирект на главную страницу через внутреннюю страницу redirect
     const params = new URLSearchParams({
-      external: encodeURIComponent('https://vavada2.slot24.bet'),
+      external: encodeURIComponent(CASINO_BASE_URL),
       ref: 'header-register',
     });
-    window.location.href = `/${locale}/redirect?${params.toString()}`;
+    router.push(`/${locale}/redirect?${params.toString()}`);
   };
 
   return (

@@ -40,6 +40,7 @@ cp .env.example .env.local
 ```env
 NEXT_PUBLIC_SITE_URL=https://newsite.com
 NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX  # опционально
+NEXT_PUBLIC_CASINO_URL=https://partner.example.com  # URL для редиректов
 ```
 
 **Проверка:**
